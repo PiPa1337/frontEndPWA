@@ -1,5 +1,5 @@
-# Nombre Imanol
-Apellido Paura
+# Nombre y Apellido
+# Imanol Paura
 Sitio web MERN single page application. 
 Dependencias:
     "cors": "^2.8.5",
