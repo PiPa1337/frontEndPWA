@@ -1,6 +1,6 @@
 # Nombre y Apellido
 # Imanol Paura
-Sitio web MERN single page application. 
+Sitio web MERN
 Dependencias:
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
@@ -10,7 +10,7 @@ Dependencias:
     "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.1",
     "path": "^0.12.7"
-    
+    Los datos del formulario se validan en una base de datos en https://backendpwa-production.up.railway.app/personas
 ![image](https://user-images.githubusercontent.com/69825262/210700590-47221c0d-54a1-4d9c-98e8-5cc17c7443d8.png)
 ![image](https://user-images.githubusercontent.com/69825262/210700605-c1485602-3f18-4a07-a57f-3de6ffd644ee.png)
 ![image](https://user-images.githubusercontent.com/69825262/210700627-46ea3cfc-d302-49d7-98cd-bf5734333909.png)
